@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: http://626friend.com/editorial-sitemap.xml
